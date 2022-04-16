@@ -37,6 +37,7 @@ char char_buffer;
 String string_buffer = "";
 int buffer_space = 1000;
 int pictureNumber = 0;
+Seria
 void setup() {
   pinMode(trig,OUTPUT);
   digitalWrite(trig,1);
